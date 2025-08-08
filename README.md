@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kishor Aryal</h1>
 <h3 align="center">A Tech Geek From Butwal Nepal.</h3>
 
-- 🔭 I’m currently working on **Marksheet Generator**
+- 🔭 I’m currently working on **LifeBoard – central place for organizing all aspects of life**
 
 - 🌱 I’m currently learning **ASP .NET Core, C#**
 
