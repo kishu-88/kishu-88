@@ -118,12 +118,6 @@ As a **freelance developer**, I specialize in:
 <a href="mailto:kishoraryal79@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" /></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 <p align="center">
   <i>Let's build something amazing together! 🚀</i>
 </p>
