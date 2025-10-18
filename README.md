@@ -9,7 +9,7 @@
 I'm a passionate web developer from Butwal, Nepal, specializing in **business applications** and **web solutions**. Currently pursuing my **Master's in Information Technology** at Charles Darwin University while delivering high-quality freelance projects to clients worldwide.
 
 - 🔭 **Currently Working On:** [LifeBoard](https://github.com/yourusername/lifeboard) – A central platform for organizing all aspects of life
-- 🎓 **Education:** Master's in Information Technology @ Charles Darwin University, Australia
+- 🎓 **Education:** Master's in Information Technology @ Charles Darwin University, Sydney
 - 💼 **Experience:** 5+ years in web development
 - 🌱 **Currently Learning:** ASP.NET Core, C#
 - 💡 **Expertise:** Business Applications, Web Apps, Full-Stack Development
@@ -90,22 +90,6 @@ As a **freelance developer**, I specialize in:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
