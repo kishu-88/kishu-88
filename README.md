@@ -8,7 +8,6 @@
 
 I'm a passionate web developer from Butwal, Nepal, specializing in **business applications** and **web solutions**. Currently pursuing my **Master's in Information Technology** at Charles Darwin University while delivering high-quality freelance projects to clients worldwide.
 
-- 🔭 **Currently Working On:** [LifeBoard](https://github.com/yourusername/lifeboard) – A central platform for organizing all aspects of life
 - 🎓 **Education:** Master's in Information Technology @ Charles Darwin University, Sydney
 - 💼 **Experience:** 5+ years in web development
 - 🌱 **Currently Learning:** ASP.NET Core, C#
